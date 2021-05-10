@@ -2,10 +2,10 @@
 
 Solution has operated in Deterministic domain where all the parameters are known. 
 
-#### Optimal Raw material mix problem
-- What should be the mix for creating different items from the raw material which maximizes the profit?
+#### Optimal Raw material mix problem (kindly refer LP_optimizer.ipynb)
+- What should be the mix for creating different items from the raw material which maximizes the profit? 
 
-#### Network optimization problem
+#### Network optimization problem (kindly refer network_optimization_LP_programming.ipynb)
 - Which facility should be operating and how to allocate demands (from the customer/end-users) to these facilities in order to minimizes the overall cost?
 
 ####  Solution
