@@ -14,6 +14,6 @@ Solving linear programming (where all the constraints and objective function is 
 For Non-linear programming models, kindly use Pyomo or pyOpt (as python optimizer interface) instead of PuLP used in this repo. 
 
 #### Key Note:
-Defining an optimization model would be a pain if you have thousands of variables and constraints. In this repo, you can find the solution for the same by defining and initializing them using compact and more scalable way - 
+Defining an optimization model would be a pain if you have thousands of variables and constraints. In this repo, you can find the solution for the same by defining and initializing decision variables and constraints using compact and more scalable way - 
 - More compact representation using dictionaries and list powered by python
 - Loops to define n numbers of variables and constraints instead of writing one by one :'( 
