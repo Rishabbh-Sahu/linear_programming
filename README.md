@@ -1,6 +1,6 @@
 # Linear programming 
 
-Solution has operated in Deterministic domain where all the parameters are known. 
+Solution has operated in **deterministic domain** where all the parameters are known. 
 
 #### Optimal Raw material mix problem (kindly refer LP_optimizer.ipynb)
 - What should be the mix for creating different items from the raw material which **maximizes the profit?** 
