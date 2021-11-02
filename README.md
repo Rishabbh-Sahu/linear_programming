@@ -2,7 +2,7 @@
 
 Solution has operated in **deterministic domain** where all the parameters are known. 
 
-#### Optimal raw material mix problem (kindly refer LP_optimizer.ipynb)
+#### Optimal raw material mix problem (Refer LP_optimizer.ipynb)
 - What should be the mix for creating different items from the raw material which **maximizes the profit?** 
 
 #### Network optimization problem (kindly refer network_optimization_LP_programming.ipynb)
