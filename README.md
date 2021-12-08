@@ -9,7 +9,7 @@ Solution has operated in **deterministic domain** where all the parameters are k
 - Which facility should be operating and how to allocate demands (from the customer/end-users) to these facilities in order to minimizes the overall cost?
 
 ####  Solution
-Solving linear programming (where all the constraints and objective function is the Linear function of the decision variables and guaranteed optimal solution if exist) using python optimizer interface. This repo allows you to add multiple decision vars and constraints etc. in a very easy way.
+Solving linear programming (where all the constraints and objective functions is the Linear function of the decision variables and guaranteed optimal solution if exist) using python optimizer interface. This repo allows you to add multiple decision variables and constraints etc. in a easy way.
 
 For Non-linear programming models, kindly use **Pyomo** or **pyOpt** (as python optimizer interface) instead of PuLP used in this repo. 
 
