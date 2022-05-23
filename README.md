@@ -1,4 +1,4 @@
-# Linear programming 
+# <p align=center>Linear programming </p>
 
 Solution has operated in **deterministic domain** where all the parameters are known. 
 
