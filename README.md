@@ -8,7 +8,7 @@ Solution has operated in **deterministic domain** where all the parameters are k
 #### Network optimization problem (kindly refer network_optimization_LP_programming.ipynb)
 - Which facility should be operating and how to allocate demands (from the customer/end-users) to these facilities in order to minimizes the overall cost?
 
-####  Solution
+####  Solution:
 Solving linear programming (where all the constraints and objective functions are the Linear function of the decision variables and optimal solution is guaranteed, if exist) using python optimizer interface. This repo allows you to add multiple decision variables and constraints etc. in a easy way.
 
 For Non-linear programming models, kindly use **Pyomo** or **pyOpt** (as python optimizer interface) instead of PuLP used in this repo. 
